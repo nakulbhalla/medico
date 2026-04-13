@@ -15,7 +15,7 @@ conda create -n medico python=3.10 -y
 ```
 
 ```bash
-conda activate medibot
+conda activate medico
 ```
 
 
